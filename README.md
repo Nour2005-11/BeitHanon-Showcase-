@@ -101,18 +101,21 @@ Modern web technologies and cloud-based services are used to build and maintain 
 
 ---
 
-## 📸 Screenshots | لقطات من المشروع
 
+## 📸 Project Gallery | معرض صور المشروع
 
+### Beit Hanoun | بيت حانون
 
-### Homepage | الصفحة الرئيسية
-![Homepage](screenshots/homepage.png)
+![Beit Hanoun](public/beit-hanoun-fields.jpg)
 
-### Martyrs Archive | أرشيف الشهداء
-![Martyrs Archive](screenshots/archive.png)
+### Before and After | بيت حانون قبل وبعد
 
-### Dark Mode | الوضع الليلي
-![Dark Mode](screenshots/dark-mode.png)
+![Beit Hanoun Before](public/images/beit-hanoun-before/bh3.jpg)
+
+![Beit Hanoun After](public/images/beit-hanoun-after/beit-hanoun-after-01.jpg)
+
+![Beit Hanoun Memory](public/images/beit-hanoun-after/beit-hanoun-after-02.jpg)
+
 
 ---
 

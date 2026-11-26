@@ -4,8 +4,7 @@
 # 🕊️ Beit Hanoun Memory
 # ذاكرة بيت حانون
 
-### A Digital Memorial Archive
-### أرشيف رقمي لحفظ الذاكرة
+### A Digital Memorial Archive | أرشيف رقمي لحفظ الذاكرة
 
 **Preserving Names, Stories, and Memories**
 **حفظ الأسماء والقصص والذكريات**
@@ -13,8 +12,10 @@
 <br/>
 
 <a href="https://beit-hanon.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Website-Visit_Project-12372A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit_Live_Website-12372A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website"/>
 </a>
+
+<br/><br/>
 
 </div>
 
@@ -22,11 +23,11 @@
 
 # 🇬🇧 English
 
-## About the Project
+## 📖 About the Project
 
 Beit Hanoun Memory is a digital memorial archive dedicated to documenting and preserving the memory of the martyrs of Beit Hanoun from October 7, 2023, onward.
 
-The project provides a digital space for preserving names, stories, photographs, and personal memories, making them accessible to current and future generations.
+The platform provides a digital space for preserving names, stories, photographs, and personal memories, making them accessible to current and future generations.
 
 It uses technology as a means of documentation, remembrance, and preserving collective memory.
 
@@ -42,7 +43,7 @@ It uses technology as a means of documentation, remembrance, and preserving coll
 
 - Digital archive of martyrs.
 - Search and browse documented records.
-- Photo documentation.
+- Photograph documentation.
 - Arabic and English language support.
 - RTL and LTR interface support.
 - Light and dark display modes.
@@ -53,23 +54,23 @@ It uses technology as a means of documentation, remembrance, and preserving coll
 
 Modern web technologies and cloud-based services are used to build and maintain the platform.
 
-<!-- Add verified technologies here -->
+<!-- Add the verified technologies used in the project here. -->
 
 ## 🌐 Live Demo
 
-[Visit Beit Hanoun Memory](https://beit-hanon.vercel.app/)
+<a href="https://beit-hanon.vercel.app/">Visit Beit Hanoun Memory</a>
 
 ---
 
 # 🇵🇸 العربية
 
-## عن المشروع
+## 📖 عن المشروع
 
 **ذاكرة بيت حانون** هو أرشيف رقمي توثيقي يهدف إلى حفظ ذاكرة شهداء مدينة بيت حانون، منذ السابع من أكتوبر 2023 وحتى اليوم.
 
 يوفر المشروع مساحة رقمية لتوثيق الأسماء والقصص والصور والذكريات الشخصية، وإتاحتها للأجيال الحالية والقادمة.
 
-ينطلق المشروع من توظيف التكنولوجيا كوسيلة للتوثيق وحفظ الذاكرة الجماعية، وضمان بقاء الحكايات حاضرة.
+ينطلق المشروع من توظيف التكنولوجيا كوسيلة للتوثيق وحفظ الذاكرة الجماعية، وضمان بقاء الحكايات حاضرة في وجدان الأجيال القادمة.
 
 ## 🎯 أهداف المشروع
 
@@ -96,7 +97,24 @@ Modern web technologies and cloud-based services are used to build and maintain 
 
 ## 🌐 الموقع الإلكتروني
 
-[زيارة ذاكرة بيت حانون](https://beit-hanon.vercel.app/)
+<a href="https://beit-hanon.vercel.app/">زيارة ذاكرة بيت حانون</a>
+
+---
+
+## 📸 Screenshots | لقطات من المشروع
+
+<!-- Add your actual project screenshots to the screenshots folder before enabling these images. -->
+
+<!--
+### Homepage | الصفحة الرئيسية
+![Homepage](screenshots/homepage.png)
+
+### Martyrs Archive | أرشيف الشهداء
+![Martyrs Archive](screenshots/archive.png)
+
+### Dark Mode | الوضع الليلي
+![Dark Mode](screenshots/dark-mode.png)
+-->
 
 ---
 

@@ -103,9 +103,8 @@ Modern web technologies and cloud-based services are used to build and maintain 
 
 ## 📸 Screenshots | لقطات من المشروع
 
-<!-- Add your actual project screenshots to the screenshots folder before enabling these images. -->
 
-<!--
+
 ### Homepage | الصفحة الرئيسية
 ![Homepage](screenshots/homepage.png)
 
@@ -114,7 +113,6 @@ Modern web technologies and cloud-based services are used to build and maintain 
 
 ### Dark Mode | الوضع الليلي
 ![Dark Mode](screenshots/dark-mode.png)
--->
 
 ---
 
